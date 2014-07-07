@@ -7,9 +7,7 @@ windows-powershell-getprocess
 Version
 ----
 
-0.0.2
-
-Tech
+0.0.5Tech
 ====
 
 To get things work, you will need:
