@@ -1,0 +1,18 @@
+{
+  "name": "windows-powershell-getprocess",
+  "version": "0.0.2",
+  "description": "none yet",
+  "main": "build/Release/PowerShell.node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": {
+    "name": "svennergr@gmail.com"
+  },
+  "license": "ISC",
+  "gypfile": true,
+  "readme": "ERROR: No README data found!",
+  "_id": "windows-powershell-getprocess@0.0.1",
+  "_from": "windows-powershell-getprocess@"
+}
