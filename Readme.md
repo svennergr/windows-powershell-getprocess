@@ -31,7 +31,7 @@ Useage
 =====
 
 
-getProcess([id])
+getProcess([pid])
 -----
 
 either
