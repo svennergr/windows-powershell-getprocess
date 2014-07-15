@@ -2,9 +2,9 @@
   "targets": [
     {
       "target_name": "PowerShell",
-      "sources": [ "src/powerShell.cpp" ],
 	  'conditions': [
           ['OS=="win"', {
+			"sources": [ "src/powerShell.cpp" ],
             'msvs_settings': {
               'VCCLCompilerTool': {                  
                 'RuntimeTypeInfo':'true',

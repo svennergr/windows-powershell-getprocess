@@ -1,6 +1,6 @@
 {
   "name": "windows-powershell-getprocess",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A NodeJS Module to get process information on Windows runtimes",
   "main": "build/Release/PowerShell.node",
   "scripts": {
